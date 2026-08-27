@@ -4,7 +4,7 @@ Project Overview
 
 This project analyses electric vehicle adoption trends in Ireland using the CSO TEM12 dataset obtained through the CSO PxStat API.
 
-Objectives
+Objectives:
 Analyse new private annual EV registration trends
 Assess progress towards Ireland's 2030 EV targets
 Compare Battery Electric Vehicle (BEV) and Plug-in Hybrid Electric Vehicle (PHEV) adoption
